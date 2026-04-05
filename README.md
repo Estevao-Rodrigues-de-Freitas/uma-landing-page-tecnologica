@@ -35,7 +35,7 @@ Link do site:
 - Apresenta um espaço que organiza os serviços prestados
 
 ### 3. Nossa História
-- Entrega um campo o qual é utilizado para contar a história da empresa.
+- Entrega um campo o qual é utilizado para contar a história da empresa
 
 ### 4. Confiado Por
 - É um campo de parecerias, o qual indica o logo das empresas que estão conectadas na rede da empresa
