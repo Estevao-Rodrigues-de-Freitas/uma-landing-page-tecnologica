@@ -22,7 +22,7 @@ Este projeto emula uma interface de um site de tecnologia. Tudo foi criado pensa
 ---
 
 ## Como Acessar a Interface
-Link do site: 
+Link do site: https://estevao-rodrigues-de-freitas.github.io/uma-landing-page-tecnologica/
 
 ---
 
